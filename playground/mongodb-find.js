@@ -7,9 +7,9 @@ MongoClient.connect('mongodb://localhost:27017/Mutahir1',{ useNewUrlParser: true
   console.log("Connected to MongoDB Server");
 
 // db.collection('test2').insertOne({
-//   text: 'Ali',
-//   age:'22',
-//   location:  "Lahore",
+//   text: 'Alex',
+//   age:'26',
+//   location:  "Texas",
 //   completed: false
 // }, (err, result)=>{
 //   if(err){
